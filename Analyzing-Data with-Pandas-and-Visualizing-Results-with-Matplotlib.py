@@ -4,8 +4,8 @@ import seaborn as sns  # Importing Seaborn for enhanced visualizations
 
 # Task 1: Load and Explore the Dataset
 try:
-    # Load dataset (update 'your_dataset.csv' with actual filename)
-    df = pd.read_csv('your_dataset.csv')
+    # Load dataset (update 'dataset.csv' with actual filename)
+    df = pd.read_csv('dataset.csv')
     print("Dataset loaded successfully!\n")
     
     # Display first few rows
